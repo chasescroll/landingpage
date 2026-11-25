@@ -1,7 +1,6 @@
 "use client"
 import { EVENT_PAGE_URL } from "@/helpers/services/urls";
 import { Flex, Image } from "@chakra-ui/react";
-import { useRouter } from "next/navigation";
 
 
 export default function Page() {
